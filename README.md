@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessiobonforti/">
+    <img src="https://img.shields.io/badge/-alessio%20bonforti-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:a.bonforti@protonmail.com">
+    <img src="https://img.shields.io/badge/a.bonforti@protonmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="https://keyoxide.org/hkp/572069227667B0FE7EFF3EA37F3F35EB80ECF823">
+    <img src="https://img.shields.io/badge/pgp-F237F41D5B69CC7A-blue?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
-<!--
-**abonforti/abonforti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/abonforti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abonforti&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/abonforti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abonforti&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
